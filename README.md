@@ -16,6 +16,7 @@ Please note that this project is currently in its early stages of development. O
 ## Contributing
 
 We're excited about community contributions! While the project is in its early stages, we're not yet accepting pull requests. However, your interest and feedback are greatly appreciated and will help shape the future development of CodeVoice.
+https://miro.com/app/board/uXjVMszP-nY=/?share_link_id=24698861299
 
 ## License
 
