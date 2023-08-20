@@ -37,6 +37,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-If you have any questions or suggestions, feel free to contact us at [email@example.com](mailto:email@example.com).
+If you have any questions or suggestions, feel free to contact us at [Egor Arhipov](https://t.me/Eg_Arh).
 
 Happy coding with CodeVoice!
